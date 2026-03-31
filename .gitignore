@@ -1,3 +1,4 @@
 ﻿# Large raw datasets / archives
 *.zip
-data-final.csv/data-final.csv
+!data-final.csv.zip
+!data-final.csv/data-final.csv
