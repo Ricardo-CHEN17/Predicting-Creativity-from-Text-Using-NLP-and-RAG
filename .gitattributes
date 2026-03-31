@@ -1,3 +1,2 @@
 mbti_1.csv/mbti_1.csv filter=lfs diff=lfs merge=lfs -text
-data-final.csv.zip filter=lfs diff=lfs merge=lfs -text
 data-final.csv/data-final.csv filter=lfs diff=lfs merge=lfs -text
